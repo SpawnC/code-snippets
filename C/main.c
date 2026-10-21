@@ -24,6 +24,5 @@ int main(void)
         printf("CODE WIZARD\n");
     else
         printf("LEGENDARY\n");
-l
     return 0;
 }
