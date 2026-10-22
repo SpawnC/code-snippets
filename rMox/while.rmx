@@ -1,4 +1,3 @@
-
 func int sum_to(int n) {
     int i = 1;
     int total = 0;
