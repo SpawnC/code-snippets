@@ -1,0 +1,9 @@
+struct Player {
+    int health;
+    int level;
+};
+
+func main() {
+    struct Player player;
+    return 0;
+}
