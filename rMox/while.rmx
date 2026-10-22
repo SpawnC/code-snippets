@@ -1,0 +1,17 @@
+
+func int sum_to(int n) {
+    int i = 1;
+    int total = 0;
+
+    while i <= n {
+        total += i;
+        i++;
+    }
+
+    return total;
+}
+
+func main() {
+    int result = sum_to(10);
+    return 0;
+}
